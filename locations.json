@@ -1,0 +1,141 @@
+{
+    "locations": [
+        {
+            "name": "City Park Hotel Bangkok Pratunam",
+            "short_name": "city_park",
+            "type": "attraction",
+            "lat": 13.7568,
+            "lon": 100.5345
+        },
+        {
+            "name": "ICONSIAM",
+            "short_name": "iconsiam",
+            "type": "attraction",
+            "lat": 13.7267,
+            "lon": 100.5101
+        },
+        {
+            "name": "Mahanakhon SkyWalk",
+            "short_name": "mahanakhon",
+            "type": "attraction",
+            "lat": 13.7234,
+            "lon": 100.5280
+        },
+        {
+            "name": "SEA LIFE Bangkok",
+            "short_name": "sea_life",
+            "type": "attraction",
+            "lat": 13.7466,
+            "lon": 100.5350
+        },
+        {
+            "name": "Asiatique The Riverfront",
+            "short_name": "asiatique",
+            "type": "attraction",
+            "lat": 13.7047,
+            "lon": 100.5017
+        },
+        {
+            "name": "Jurassic World Experience Bangkok",
+            "short_name": "jurassic_world",
+            "type": "attraction",
+            "lat": 13.7047,
+            "lon": 100.5017
+        },
+        {
+            "name": "Safari World",
+            "short_name": "safari_world",
+            "type": "attraction",
+            "lat": 13.8641,
+            "lon": 100.7006
+        },
+        {
+            "name": "Chocolate Ville",
+            "short_name": "chocolate_ville",
+            "type": "attraction",
+            "lat": 13.8309,
+            "lon": 100.6766
+        },
+        {
+            "name": "Tiger Topia Sriracha Zoo",
+            "short_name": "tiger_topia",
+            "type": "attraction",
+            "lat": 13.1432,
+            "lon": 100.9315
+        },
+        {
+            "name": "Great & Grand Sweet Destination",
+            "short_name": "great_grand",
+            "type": "attraction",
+            "lat": 12.9800,
+            "lon": 100.9550
+        },
+        {
+            "name": "ibis Pattaya",
+            "short_name": "ibis_pattaya",
+            "type": "hotel",
+            "lat": 12.9491,
+            "lon": 100.8895
+        },
+        {
+            "name": "Nongnooch Pattaya Garden",
+            "short_name": "nong_nooch",
+            "type": "attraction",
+            "lat": 12.7654,
+            "lon": 100.9325
+        },
+        {
+            "name": "Mini Siam",
+            "short_name": "mini_siam",
+            "type": "attraction",
+            "lat": 12.9623,
+            "lon": 100.9097
+        },
+        {
+            "name": "The Cottage Suvarnabhumi",
+            "short_name": "cottage_suvarnabhumi",
+            "type": "hotel",
+            "lat": 13.7195,
+            "lon": 100.7252
+        },
+        {
+            "name": "Suvarnabhumi Airport",
+            "short_name": "bkk_airport",
+            "type": "airport",
+            "lat": 13.6900,
+            "lon": 100.7501
+        },
+        {
+            "name": "Central Bangkok / Pratunam",
+            "short_name": "central_bangkok",
+            "type": "reference",
+            "purpose": "Central Bangkok weather and flooding reference",
+            "lat": 13.7539,
+            "lon": 100.5402
+        },
+        {
+            "name": "Pattaya",
+            "short_name": "pattaya",
+            "type": "reference",
+            "purpose": "Pattaya weather and flooding reference",
+            "lat": 12.9236,
+            "lon": 100.8825
+        },
+        {
+            "name": "Si Racha",
+            "short_name": "si_racha",
+            "type": "reference",
+            "purpose": "Bangkok-Pattaya route weather reference",
+            "lat": 13.1737,
+            "lon": 100.9311
+        },
+        {
+            "name": "Suvarnabhumi Airport Area",
+            "short_name": "bkk_airport_area",
+            "type": "reference",
+            "purpose": "Airport access and Lat Krabang weather reference",
+            "lat": 13.6900,
+            "lon": 100.7501
+        }
+    ]
+}
